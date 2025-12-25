@@ -5,3 +5,4 @@
 - "The spice must flow"
 - "Fear is the mind-killer"
 - "Eventually I will add hear the while litany"
+- "But first I will finish the git course"
